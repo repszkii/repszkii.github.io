@@ -1,16 +1,16 @@
 $(document).ready(function() {
     var plinks = [
        	       	{
-            name: 'mash',
-            plink: 'http://steamcommunity.com/id/kontoI/'
+            name: 'C.J',
+            plink: 'http://steamcommunity.com/profiles/76561198079434058'
         },
 		{
-            name: 'repszkii',
-            plink: 'http://steamcommunity.com/profiles/76561198214010132/'
+            name: 'Bearcat',
+            plink: 'http://steamcommunity.com/id/Burcat'
        },       
 	   {
-            name: 'shy',
-            plink: 'http://steamcommunity.com/profiles/76561198263666801'
+            name: 'Darkside',
+            plink: 'http://steamcommunity.com/profiles/76561198060868790'
 
         },   
 		];    
